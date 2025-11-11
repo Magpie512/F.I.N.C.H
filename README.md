@@ -10,7 +10,7 @@ The foundational hardware assembly and initial setup instructions are derived fr
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
