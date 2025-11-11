@@ -1,2 +1,6 @@
 # F.I.N.C.H
-My PiCrawler's codeFunctionally Intelligent Networked Companion House-bot
+Honestly just a repo for me
+
+##DOCUMENTATION
+https://docs.sunfounder.com/projects/pi-crawler/en/latest/
+
